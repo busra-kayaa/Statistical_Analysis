@@ -1,0 +1,55 @@
+Column 1:
+Ortalama: 24.120689655172413
+Medyan: 23.0
+Mod: 23.0
+Deðiþim Aralýðý: 15.0
+Ortalama Mutlak Sapma: 1.8650416171224729
+Varyans: 6.5716409036860925
+Standart Sapma: 2.5635211923614154
+Deðiþim Katsayýsý: 10.627893435093789
+Çeyrekler Arasý Açýklýk: 3.0
+
+Column 2:
+Ortalama: 3.4051724137931036
+Medyan: 3.0
+Mod: 3.0
+Deðiþim Aralýðý: 5.0
+Ortalama Mutlak Sapma: 1.0710463733650386
+Varyans: 1.585835315101075
+Standart Sapma: 1.2592995335110209
+Deðiþim Katsayýsý: 36.981960984121116
+Çeyrekler Arasý Açýklýk: 1.0
+
+Column 3:
+Ortalama: 12.970589655172416
+Medyan: 12.977
+Mod: 12.977
+Deðiþim Aralýðý: 0.164200000000001
+Ortalama Mutlak Sapma: 0.024890249702737493
+Varyans: 0.001081394375743165
+Standart Sapma: 0.032884561358533654
+Deðiþim Katsayýsý: 0.25353173782211186
+Çeyrekler Arasý Açýklýk: 0.03769999999999918
+
+Column 4:
+Ortalama: 77.59955603448275
+Medyan: 77.58705
+Mod: 77.5773
+Deðiþim Aralýðý: 0.21240000000000236
+Ortalama Mutlak Sapma: 0.03306535374553942
+Varyans: 0.0021391255670333994
+Standart Sapma: 0.04625068180074105
+Deðiþim Katsayýsý: 0.05960173506687169
+Çeyrekler Arasý Açýklýk: 0.04829999999999757
+
+Column 5:
+Ortalama: 560021.5775862068
+Medyan: 560011.0
+Mod: 560009.0
+Deðiþim Aralýðý: 95.0
+Ortalama Mutlak Sapma: 15.652645659917997
+Varyans: 390.2957045184304
+Standart Sapma: 19.75590302968787
+Deðiþim Katsayýsý: 0.003527703899346048
+Çeyrekler Arasý Açýklýk: 24.0
+
